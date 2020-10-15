@@ -5,3 +5,10 @@ C:\Users\rcif7\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj
 C:\Users\rcif7\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\rcif7\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\rcif7\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\prod\NumeralTranslation\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\prod\NumeralTranslation\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\prod\NumeralTranslation\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\prod\NumeralTranslation\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\prod\NumeralTranslation\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\prod\NumeralTranslation\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\prod\NumeralTranslation\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

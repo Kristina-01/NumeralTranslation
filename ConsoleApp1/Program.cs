@@ -5,8 +5,29 @@ namespace ConsoleApp1
 {
     class Program2
     {
+        static void Truc()
+        {
+            Console.WriteLine("Введите переменную A: ");
+            string A = Console.ReadLine(); //число
+            Console.WriteLine("Введите переменную n: ");
+            int n = Convert.ToInt32(Console.ReadLine()); //разрядность
+            char[] owner = A.ToCharArray();
+            int sum= 0;
+            int st = 0;
+            for (int i = owner.Length - 1; i >= 0; i--)
+            {
+                var temp = Math.Pow(Convert.ToDouble(n), Convert.ToDouble(st++));
+                var tm = Convert.ToInt32(owner[i].ToString());
+                sum += tm  * (int)temp;
+            }
+            Console.WriteLine(sum);
+
+
+        }
         static void Main(string[] args)
         {
+            Truc();
+            /*
             Console.WriteLine("Введите переменную A: " );
             int A  = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите переменную n: ");
@@ -34,6 +55,7 @@ namespace ConsoleApp1
             {
                 Console.Write(m[i]);
             }
+            */
             Console.ReadLine();
 
 
